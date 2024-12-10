@@ -11,8 +11,7 @@ This repository contains the implementation of a CAPTCHA recognition system desi
 - [Dataset](#dataset)  
 - [Methodology](#methodology)  
 - [Results](#results)  
-- [Limitations](#limitations)  
-- [How to Use](#how-to-use)  
+- [Limitations](#limitations) 
 - [Contributors](#contributors)  
 
 ---
@@ -103,10 +102,6 @@ The dataset consists of CAPTCHA images with textual content:
    - Due to the need for perfect character prediction, even a single error rendered the entire CAPTCHA incorrect, lowering CAPTCHA recognition accuracy.
 
 
-## How to Use  
-### Prerequisites  
-- Python 3.8+  
-- Required libraries: TensorFlow, OpenCV, NumPy, Matplotlib  
 
 
 ## Contributors:
