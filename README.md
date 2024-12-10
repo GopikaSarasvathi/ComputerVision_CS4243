@@ -1,3 +1,4 @@
+
 **CS4243 Computer Vision and Pattern Recognition Project**  
 
 This repository contains the implementation of a CAPTCHA recognition system designed to identify and extract text from CAPTCHA images. It uses a Convolutional Neural Network (CNN) to recognize segmented characters after preprocessing and segmentation.
@@ -110,5 +111,7 @@ The dataset consists of CAPTCHA images with textual content:
 
 ## Contributors:
 Amritha Nalli
+
 Gopika Sarasvathi Kothandaraman
+
 Richa Motwani
